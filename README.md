@@ -24,7 +24,12 @@ We have tested the model using GPflow 1.3.0.
 The illustration example is provided in
 
 ```
-demo_SVHGP_toy.ipynb
+demo_SVHGP_1D.ipynb
+demo_SVHGP_2D.ipynb
 ```
+
+<div style="text-align:center">
+<img width="500" height="200" src="https://github.com/0LYS0/SVSHGP/blob/master/result/result.gif">
+</div>
 
 
