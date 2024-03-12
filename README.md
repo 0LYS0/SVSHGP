@@ -29,7 +29,7 @@ demo_SVHGP_2D.ipynb
 ```
 
 <div style="text-align:center">
-<img width="500" height="200" src="https://github.com/0LYS0/SVSHGP/blob/master/result/result.gif">
+<img src="https://github.com/0LYS0/SVSHGP/blob/master/result/result.gif">
 </div>
 
 
