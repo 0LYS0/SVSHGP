@@ -17,6 +17,10 @@ The model is implemented based on [GPflow](https://github.com/GPflow/GPflow). To
 
 We have tested the model using GPflow 1.3.0.
 
+* GPflow 1.3.0
+* Python 3.7
+* Tensorflow 1.13.1
+
 The illustration example is provided in
 
 ```
